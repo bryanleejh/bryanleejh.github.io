@@ -7,7 +7,7 @@ const Hero = () => {
           I'm a passionate web developer creating amazing digital experiences.
         </p>
         <p className="text-xl mb-8">
-          This website was built using vite, react, typescript, tailwind and
+          This website was built using react, typescript, tailwind, vite and
           github pages.
         </p>
         <a

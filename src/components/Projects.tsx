@@ -8,9 +8,9 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
-    title: "Project 1",
-    description: "A brief description of project 1",
-    imageUrl: "https://via.placeholder.com/300x200",
+    title: "Weather App",
+    description: "Built using react, tailwind, vite and openweathermap api",
+    imageUrl: "./public/weather-app.png",
   },
   {
     id: 2,
