@@ -16,7 +16,7 @@ const projects: Project[] = [
   },
   {
     id: 2,
-    title: "Project 2",
+    title: "Taxi Visualisation",
     description: "Built using react, leaflet, vite and data gov sg apis",
     imageUrl: "/taxi-visualisation.png",
     externalUrl: "https://bryanleejh.github.io/taxi-visualisation",
