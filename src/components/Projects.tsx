@@ -11,7 +11,7 @@ const projects: Project[] = [
     id: 1,
     title: "Weather App",
     description: "Built using react, tailwind, vite and openweathermap api",
-    imageUrl: "./public/weather-app.png",
+    imageUrl: "/weather-app.png",
     externalUrl: "https://bryanleejh.github.io/weather-app",
   },
   {
