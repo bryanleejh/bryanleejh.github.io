@@ -10,7 +10,7 @@ const Footer = () => {
           href="mailto:your.email@example.com"
           className="text-blue-400 hover:underline"
         >
-          your.email@example.com
+          bryan.lee.jh@gmail.com
         </a>
         <div className="mt-8 text-sm text-gray-400">
           © {new Date().getFullYear()} Your Name. All rights reserved.

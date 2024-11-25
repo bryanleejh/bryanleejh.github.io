@@ -6,6 +6,10 @@ const Hero = () => {
         <p className="text-xl mb-8">
           I'm a passionate web developer creating amazing digital experiences.
         </p>
+        <p className="text-xl mb-8">
+          This website was built using vite, react, typescript, tailwind and
+          github pages.
+        </p>
         <a
           href="#contact"
           className="bg-blue-500 text-white px-6 py-2 rounded-full hover:bg-blue-600 transition-colors"
