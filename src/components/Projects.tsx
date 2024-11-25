@@ -10,16 +10,16 @@ const projects: Project[] = [
   {
     id: 1,
     title: "Weather App",
-    description: "Built using react, tailwind, vite and openweathermap api",
+    description: "Built using react, tailwind, vite and openweathermap apis",
     imageUrl: "/weather-app.png",
     externalUrl: "https://bryanleejh.github.io/weather-app",
   },
   {
     id: 2,
     title: "Project 2",
-    description: "Built using react, tailwind, vite and openweathermap api",
-    imageUrl: "https://via.placeholder.com/300x200",
-    externalUrl: "https://bryanleejh.github.io/",
+    description: "Built using react, leaflet, vite and data gov sg apis",
+    imageUrl: "/taxi-visualisation.png",
+    externalUrl: "https://bryanleejh.github.io/taxi-visualisation",
   },
   {
     id: 3,
