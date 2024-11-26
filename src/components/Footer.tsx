@@ -13,7 +13,7 @@ const Footer = () => {
           bryan.lee.jh@gmail.com
         </a>
         <div className="mt-8 text-sm text-gray-400">
-          © {new Date().getFullYear()} Your Name. All rights reserved.
+          © {new Date().getFullYear()} Bryan Lee. All rights reserved.
         </div>
       </div>
     </footer>
